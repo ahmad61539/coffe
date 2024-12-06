@@ -630,6 +630,7 @@ label{
   height: 40vh;
   width: 100%;
   position: relative;
+  background: black;
   background-attachment: fixed;
 }
 
