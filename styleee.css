@@ -629,8 +629,6 @@ label{
 .menu-template{
   height: 40vh;
   width: 100%;
-  background: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.5)),
-    url("./Cafe1.jpg") center/cover no-repeat;
   position: relative;
   background-attachment: fixed;
 }
